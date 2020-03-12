@@ -14,7 +14,7 @@ public class Guerreiro {
 
     public static void main(String[] args) {
 
-        Guerreiro warrior = new Guerreiro ("Rambo", 1000, 120, 2);
+        Guerreiro warrior = new Guerreiro ("Rambo", 1000, 120, 5);
 
         System.out.println("Nome = " + warrior.name);
         System.out.println("Vida = " + warrior.life);

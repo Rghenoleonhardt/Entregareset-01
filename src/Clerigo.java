@@ -17,7 +17,7 @@ public class Clerigo {
 
     public static void main(String[] args) {
 
-        Clerigo priest = new Clerigo ("Padre Marcelo", 1000, 200, 48, 110);
+        Clerigo priest = new Clerigo ("Padre Marcelo", 1000, 200, 50, 110);
 
         System.out.println("Nome = " + priest.name);
         System.out.println("Vida = " + priest.life);
