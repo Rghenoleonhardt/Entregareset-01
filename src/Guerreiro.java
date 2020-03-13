@@ -14,12 +14,10 @@ public class Guerreiro {
 
     public static void main(String[] args) {
 
-        Guerreiro warrior = new Guerreiro ("Rambo", 1000, 120, 5);
+        Guerreiro Rambo = new Guerreiro ("Rambo", 1000, 120, 5);
 
-        System.out.println("Nome = " + warrior.name);
-        System.out.println("Vida = " + warrior.life);
-        System.out.println("Ataque = " + warrior.attack);
-        System.out.println("Defesa = " + warrior.defense);
+
     }
+
 
 }
